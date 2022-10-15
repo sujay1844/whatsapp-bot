@@ -1,4 +1,5 @@
-This is a script to automate Whatsapp messaging
+This is a script to automate Whatsapp messaging.
+
 For now, it supports only Firefox
 
 To run it,
